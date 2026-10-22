@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+streamlit
+# Pinned to the version used in Colab when models/model.pkl was created
+# (pickles are version-sensitive)
+scikit-learn==1.6.1
